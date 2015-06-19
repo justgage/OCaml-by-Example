@@ -1,4 +1,5 @@
 # OCaml By Example
+__NOTE:__ This is in progress, I only have a few shaky tutorials at best. Please contribute :).
 
 I think OCaml concepts are pretty hard to learn for the average joe. So these are basically my notes as I learn OCaml myself. However what I would really like is for people to submit their own examples in the form of a pull request.
 
