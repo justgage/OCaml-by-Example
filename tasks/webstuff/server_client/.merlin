@@ -1,0 +1,5 @@
+S .
+PKG core
+PKG cohttp
+PKG cohttp.lwt
+PKG lwt
